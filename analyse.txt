@@ -13,3 +13,4 @@
 {"index": 12, "type": "sleep:wakeup", "start": "2021-01-25 19:50:00", "start_stamp": 1611575400, "end": "2021-01-25 23:50:00", "end_stamp": 1611589800, "exist": 14400, "interval": 22800}
 {"index": 13, "type": "sleep:wakeup", "start": "2021-01-26 5:10:00", "start_stamp": 1611609000, "end": "2021-01-26 7:50:00", "end_stamp": 1611618600, "exist": 9600, "interval": 19200}
 {"index": 14, "type": "sleep:wakeup", "start": "2021-01-26 13:10:00", "start_stamp": 1611637800, "end": "2021-01-26 13:30:00", "end_stamp": 1611639000, "exist": 1200, "interval": 19200}
+{"index": 15, "type": "sleep:wakeup", "start": "2021-01-27 0:40:00", "start_stamp": 1611679200, "end": "2021-01-27 7:50:00", "end_stamp": 1611705000, "exist": 25800, "interval": 40200}

@@ -46,9 +46,9 @@ def get_index():
 
 def main():
 
-    add_msg(create_msg("2021-01-26 13:10:00", "sleep"))
+    add_msg(create_msg("2021-01-27 0:40:00", "sleep"))
     #time.sleep(10)
-    add_msg(create_msg("2021-01-26 13:30:00", "wakeup"))
+    add_msg(create_msg("2021-01-27 7:40:00", "wakeup"))
 
 
 
